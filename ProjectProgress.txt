@@ -1,0 +1,37 @@
+
+1. Set a theme
+The visual representation need to tell a story or highlight an important issue based on mental health and/or substance use.
+(ref: "For this competition, we are asking university students to source data related to mental health and/or substance use and create a visual representation of those data to tell a story or highlight an important issue."
+
+2. Choose the dataset
+
+3. Choose the platform (done)
+Tableau for a sophisticated data visualization.
+
+4. Specify the requirements
+Focus on issues of personal interest or what is matter to the society widely, showcase the data viz strengths!
+Must tell a good story through data visualization!
+
+5. Submit the work (dead line is 13/10/2023)
+Submission must before 13/10/2023, the goal is to submit it one week before dead line.
+
+
+Date	Description
+Monday 1 August	Submissions open
+Friday 13 October	Entry deadline, 5pm AEDT
+Friday 27 October	Public voting opens
+Wednesday 8 November	Public voting closes
+Friday 10 November	All winners announced
+
+
+Submissions can be made by individuals or teams of students. Visualisations must be in a digital format readily accessible by the public. Specifically, they must be either a high-quality stand-alone static image (jpeg, PNG etc), or dashboard-type entry hosted on a public server (see examples). Such formats may include Shiny, Tableau or PowerBI dashboards. 
+
+Entries must be submitted to:  matilda-centre.dataviz@sydney.edu.au with the subject ‘data viz entry 2023’.  You must:
+
+Attach either an image file, or link to an interactive visualisation AND attach a static graphic screen grab of the visualisation to be used as a cover image.
+
+Include a paragraph (max. 200 words) describing the story you intended to tell and how your visualisation was made.
+
+Tell us your (or your team members’) full name, degree and year of study. Please ensure there is no mention of your name(s), research institution or other identifying information on the visualisation itself. This is so we can judge each entry in a non-biased manner. 
+
+Indicate if you are a beginner (i.e., you have no previous coding experience, have never completed any data visualisation as part of a higher education course, and have never entered a data visualisation competition before). 
