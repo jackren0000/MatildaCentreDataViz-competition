@@ -1,5 +1,5 @@
 
-1. Set a theme
+1. Set a theme (done)
 The visual representation need to tell a story or highlight an important issue based on mental health and/or substance use.
 (ref: "For this competition, we are asking university students to source data related to mental health and/or substance use and create a visual representation of those data to tell a story or highlight an important issue."
 
@@ -7,10 +7,24 @@ The visual representation need to tell a story or highlight an important issue b
 
 2. Choose the dataset
 Mental Health Data: This should include various mental health conditions among Indigenous Australians.
+
+Indigenous Mental Health and Suicide Prevention Clearinghouse: Data tables https://www.indigenousmhspc.gov.au/getattachment/c470bb89-09f7-4713-a879-9abe15fc1fe1/mental-health-data-downloads.xlsx?v=1112
+
+
 Substance Use Data: This should include substance use among indigenous Australians.
+
+
+
+
 Cultural Data: Culture (i.e. language) affect on mental health and substance use.
 
 
+
+
+
+
+data resources:
+Indigenous Mental Health and Suicide Prevention Clearinghouse https://www.indigenousmhspc.gov.au/
 
 3. Choose the platform (done)
 Tableau for a sophisticated data visualization.
