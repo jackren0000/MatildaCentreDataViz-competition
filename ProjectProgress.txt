@@ -4,6 +4,7 @@ The visual representation need to tell a story or highlight an important issue b
 (ref: "For this competition, we are asking university students to source data related to mental health and/or substance use and create a visual representation of those data to tell a story or highlight an important issue."
 
 "Indigenous Mental Health and Substance Use"
+"Stolen Generations and Mental Health"
 
 2. Choose the dataset
 Mental Health Data: This should include various mental health conditions among Indigenous Australians.
