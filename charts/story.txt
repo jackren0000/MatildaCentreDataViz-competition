@@ -1,7 +1,8 @@
 1. compare mental health conditions between average Australians and Indigenous Australians ---> Indigenous Australians are more under conditions.
-using a map?
+using a map ----> show average australian mental health condition in different state (click the state to show indigenous mental details)
 
-2. compare sex ---> male and female differences
-3. compare age ---> trend in different age groups
+2. compare sex ---> male and female differences (overlaied bar chart), compare indigenous with average australian --->  group differences (fliped bar chart)
+
+3. compare age ---> trend in different age groups (filter can select different age groups)
 
 4.
