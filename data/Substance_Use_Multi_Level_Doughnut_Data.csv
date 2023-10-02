@@ -1,0 +1,13 @@
+Age_Group,Sex,Remoteness,Percentage
+15-29,Males,Non-Remote,28.5
+30-44,Males,Non-Remote,24.5
+45+,Males,Non-Remote,20.0
+15-29,Females,Non-Remote,28.5
+30-44,Females,Non-Remote,24.5
+45+,Females,Non-Remote,20.0
+15-29,Males,Remote,18.0
+30-44,Males,Remote,16.0
+45+,Males,Remote,14.0
+15-29,Females,Remote,18.0
+30-44,Females,Remote,16.0
+45+,Females,Remote,14.0
