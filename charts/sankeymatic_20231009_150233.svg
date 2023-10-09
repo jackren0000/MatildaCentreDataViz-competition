@@ -1,0 +1,88 @@
+<svg height="560" width="500" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 09/10/2023, 15:02:33 -->
+<rect height="560" width="500" fill="#ffffff"></rect>
+<g transform="translate(112.7450390625,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M9 101.87027C193.62748 101.87027 193.62748 65.57018 378.25496 65.57018" fill="none" stroke-width="92.59036" stroke="#17becf" opacity="0.45"><title>Males → Marijuana, hashish or cannabis resin: 31.9</title></path>
+<path id="flow8" d="M9 280.23514C193.62748 280.23514 193.62748 138.13316 378.25496 138.13316" fill="none" stroke-width="52.5356" stroke="#bcbd22" opacity="0.45"><title>Females → Marijuana, hashish or cannabis resin: 18.1</title></path>
+<path id="flow7" d="M9 174.28813C193.62748 174.28813 193.62748 258.16245 378.25496 258.16245" fill="none" stroke-width="22.63965" stroke="#17becf" opacity="0.45"><title>Males → Other: 7.8</title></path>
+<path id="flow1" d="M9 155.56688C193.62748 155.56688 193.62748 203.00953 378.25496 203.00953" fill="none" stroke-width="14.80285" stroke="#17becf" opacity="0.45"><title>Males → Amphetamines or speed: 5.1</title></path>
+<path id="flow4" d="M9 206.21584C193.62748 206.21584 193.62748 404.60973 378.25496 404.60973" fill="none" stroke-width="12.19058" stroke="#17becf" opacity="0.45"><title>Males → Sub total: analgesics &amp; sedatives for non-medical use: 4.2</title></path>
+<path id="flow15" d="M9 317.24226C193.62748 317.24226 193.62748 274.99706 378.25496 274.99706" fill="none" stroke-width="11.02957" stroke="#bcbd22" opacity="0.45"><title>Females → Other: 3.8</title></path>
+<path id="flow2" d="M9 190.83249C193.62748 190.83249 193.62748 316.94353 378.25496 316.94353" fill="none" stroke-width="10.44907" stroke="#17becf" opacity="0.45"><title>Males → Pain-killers or analgesics for non-medical purposes: 3.6</title></path>
+<path id="flow12" d="M9 337.85014C193.62748 337.85014 193.62748 415.92955 378.25496 415.92955" fill="none" stroke-width="10.44907" stroke="#bcbd22" opacity="0.45"><title>Females → Sub total: analgesics &amp; sedatives for non-medical use: 3.6</title></path>
+<path id="flow10" d="M9 322.75705v7.8368L378.25496 330.00486v-7.8368z" fill="#bcbd22" stroke-width="0.5" stroke="#bcbd22" opacity="0.45"><title>Females → Pain-killers or analgesics for non-medical purposes: 2.7</title></path>
+<path id="flow3" d="M9 219.85768C193.62748 219.85768 193.62748 494.30769 378.25496 494.30769" fill="none" stroke-width="5.80504" stroke="#17becf" opacity="0.45"><title>Males → Tranquillisers or sleeping pills for non-medical purposes: 2.0</title></path>
+<path id="flow11" d="M9 349.02484C193.62748 349.02484 193.62748 499.96761 378.25496 499.96761" fill="none" stroke-width="5.51479" stroke="#bcbd22" opacity="0.45"><title>Females → Tranquillisers or sleeping pills for non-medical purposes: 1.9</title></path>
+<path id="flow9" d="M9 309.1152C193.62748 309.1152 193.62748 213.02322 378.25496 213.02322" fill="none" stroke-width="5.22453" stroke="#bcbd22" opacity="0.45"><title>Females → Amphetamines or speed: 1.8</title></path>
+<path id="flow5" d="M9 214.63314C193.62748 214.63314 193.62748 454.68325 378.25496 454.68325" fill="none" stroke-width="4.64403" stroke="#17becf" opacity="0.45"><title>Males → Kava: 1.6</title></path>
+<path id="flow6" d="M9 198.08879C193.62748 198.08879 193.62748 363.24377 378.25496 363.24377" fill="none" stroke-width="4.06353" stroke="#17becf" opacity="0.45"><title>Males → Petrol and other inhalants: 1.4</title></path>
+<path id="flow13" d="M9 344.67106C193.62748 344.67106 193.62748 458.60165 378.25496 458.60165" fill="none" stroke-width="3.19277" stroke="#bcbd22" opacity="0.45"><title>Females → Kava: 1.1</title></path>
+<path id="flow14" d="M9 331.60973C193.62748 331.60973 193.62748 366.29141 378.25496 366.29141" fill="none" stroke-width="2.03176" stroke="#bcbd22" opacity="0.45"><title>Females → Petrol and other inhalants: 0.7</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="55.57509" height="167.1851" width="9" fill="#17becf" fill-opacity="1"><title>Males:
+57.6</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="378.25496" y="19.275" height="145.12596" width="9" fill="#1f77b4" fill-opacity="1"><title>Marijuana, hashish or cannabis resin:
+50.0</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="378.25496" y="195.6081" height="20.02738" width="9" fill="#ff7f0e" fill-opacity="1"><title>Amphetamines or speed:
+6.9</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="378.25496" y="311.71899" height="18.28587" width="9" fill="#2ca02c" fill-opacity="1"><title>Pain-killers or analgesics for non-medical purposes:
+6.3</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="378.25496" y="491.40518" height="11.31982" width="9" fill="#d62728" fill-opacity="1"><title>Tranquillisers or sleeping pills for non-medical purposes:
+3.9</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="378.25496" y="398.51444" height="22.63965" width="9" fill="#9467bd" fill-opacity="1"><title>Sub total: analgesics &amp; sedatives for non-medical use:
+7.8</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="378.25496" y="452.36123" height="7.8368" width="9" fill="#8c564b" fill-opacity="1"><title>Kava:
+2.7</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="378.25496" y="361.21201" height="6.09529" width="9" fill="#e377c2" fill-opacity="1"><title>Petrol and other inhalants:
+2.1</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="378.25496" y="246.84263" height="33.66922" width="9" fill="#7f7f7f" fill-opacity="1"><title>Other:
+11.6</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="0" y="253.96734" height="97.8149" width="9" fill="#bcbd22" fill-opacity="1"><title>Females:
+33.7</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" font-weight="400" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-94.07316" y="127.13265" width="92.44047" height="23.3" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="139.16765" dy="5.364999999999999">Males: 57.6</text>
+<rect id="label1_bg" class="for_r1" x="66.27558" y="79.80298" width="310.34672" height="23.3" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="371.95742" y="91.83798" dy="5.364999999999999">Marijuana, hashish or cannabis resin: 50.0</text>
+<rect id="label2_bg" class="for_r2" x="162.33027" y="193.5868" width="214.29203" height="23.3" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="371.95742" y="205.62179" dy="5.364999999999999">Amphetamines or speed: 6.9</text>
+<rect id="label3_bg" class="for_r3" x="-26.18535" y="308.82693" width="402.80766" height="23.33906" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="371.95742" y="320.86193" dy="5.364999999999999">Pain-killers or analgesics for non-medical purposes: 6.3</text>
+<rect id="label4_bg" class="for_r4" x="-58.50567" y="485.03008" width="435.12797" height="23.33906" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="371.95742" y="497.06509" dy="5.364999999999999">Tranquillisers or sleeping pills for non-medical purposes: 3.9</text>
+<rect id="label5_bg" class="for_r5" x="-44.00567" y="397.79925" width="420.62797" height="23.33906" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="371.95742" y="409.83426" dy="5.364999999999999">Sub total: analgesics &amp; sedatives for non-medical use: 7.8</text>
+<rect id="label6_bg" class="for_r6" x="299.29118" y="444.24462" width="77.33109" height="23.3" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="371.95742" y="456.27963" dy="5.364999999999999">Kava: 2.7</text>
+<rect id="label7_bg" class="for_r7" x="153.41621" y="352.22463" width="223.20609" height="23.3" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="371.95742" y="364.25965" dy="5.364999999999999">Petrol and other inhalants: 2.1</text>
+<rect id="label8_bg" class="for_r8" x="288.02555" y="251.64224" width="88.59672" height="23.3" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="371.95742" y="263.67724" dy="5.364999999999999">Other: 11.6</text>
+<rect id="label9_bg" class="for_r9" x="-112.74504" y="290.83978" width="111.11234" height="23.3" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="end" x="-6.29754" y="302.87479" dy="5.364999999999999">Females: 33.7</text>
+</g>
+</g></svg>
